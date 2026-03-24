@@ -12,6 +12,7 @@ This skill guides creation of distinctive, production-grade frontend interfaces 
 - prefer semantic tokens over raw values
 - preserve visual hierarchy
 - keep interaction states explicit
+- test here is how it works
 
 ### Don't
 - VERY IMPORTANT: Don't use decorative colored dots as visual markers in lists or cards (e.g. colored circles next to vault names). Use the asset's real logo instead, or omit the marker entirely.
