@@ -1,4 +1,3 @@
-
 ---
 name: Fast Design System
 description: Best practices for FAST on-brand-designs
