@@ -1,3 +1,11 @@
+
+---
+name: Fast Design System
+description: Best practices for FAST on-brand-designs
+metadata:
+  tags: fast, uxui, graphic
+---
+
 # FAST Design System
 > A reference guide for AI agents building on-brand presentations, websites, and visual assets for **Fast** — the payment layer for the agentic economy.
 
